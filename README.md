@@ -56,7 +56,7 @@ This project includes:
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/StacktiSingh/Food-Delivery-Time-Prediction.git
 cd your-repo-name
 
 Install dependencies: pip install -r requirements.txt
